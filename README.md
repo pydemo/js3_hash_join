@@ -1,6 +1,8 @@
 # s3_hash_join
 Hash join of fact and dimension files on one column.
+
 It appends one column to a large partitioned impressions file from smaller campaign dimension file.
+
 ## Fact was
     50000,campaign_00,video_0,0.5
     50080,campaign_00,video_0,0.1
