@@ -1,2 +1,2 @@
-# js3_hash_join
+# s3_hash_join
 Hash join of fact and dimension files on one column.
